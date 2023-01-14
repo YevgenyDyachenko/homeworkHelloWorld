@@ -1,5 +1,5 @@
 package mvc;
-
+//Project's author Yevgeny Dyachenko
 public class Model {
     private String value1;
     private String value2;

@@ -1,8 +1,9 @@
 package mvc;
 
 import java.util.Scanner;
-
+//Project's author Yevgeny Dyachenko
 public class Controller {
+
 
 
     private Model model;

@@ -1,5 +1,5 @@
 package mvc;
-
+//Project's author Yevgeny Dyachenko
 public class View {
 
     public static final String INPUT_STRING_DATA = "Input a word 'Hello': ";
